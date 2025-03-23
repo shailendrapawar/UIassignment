@@ -61,7 +61,7 @@ const Register = () => {
             e.preventDefault()
             navigate("/login")
           
-          }} className=" mt-auto h-10 bg-purple-600 rounded-md text-white">Create Account</button>
+          }} className=" mt-auto h-10 bg-indigo-600 rounded-md text-white">Create Account</button>
         </form>
       </section>
     </div>
